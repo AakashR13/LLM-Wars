@@ -39,8 +39,8 @@ LLM Wars is a web-based application that simulates battles between two language 
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/AakashR13/LLM-Wars
+   cd https://github.com/AakashR13/LLM-Wars
    ```
 
 2. Install the required Python packages:
